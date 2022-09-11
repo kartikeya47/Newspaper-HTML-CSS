@@ -1,0 +1,66 @@
+#paper_name {
+    font-size: 1.0rem;
+    text-align: right;
+}
+
+#slogan {
+    width: 60%;
+    position: relative;
+    top: 0px;
+    left: 35%;
+}
+
+#city_name {
+    font-size: 0.65rem;
+}
+
+#news01 {
+    font-size: 0.86rem;
+    position: absolute;
+    bottom: 12%;
+    left: 1.5%;
+}
+
+#news02 {
+    font-size: 0.86rem;
+    position: absolute;
+    top: 54.5%;
+    right: 35.5%;
+}
+
+#small_logo {
+    width: 10%;
+    height: 10%;
+}
+
+#big_logo {
+    width: 45%;
+    height: 45%;
+}
+
+.slogan_text {
+    position: relative;
+    left: 5%;
+    font-size: 140%;
+}
+
+#news03 {
+    font-size: 0.86rem;
+    position: absolute;
+    top: 50%;
+    right: 22.5%;
+}
+
+#news04 {
+    font-size: 0.86rem;
+    position: absolute;
+    bottom: 5%;
+    right: 12.8%;
+}
+
+#news05 {
+    font-size: 0.86rem;
+    position: absolute;
+    bottom: 14%;
+    right: 0.5%;
+}
